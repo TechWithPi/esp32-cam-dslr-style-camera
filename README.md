@@ -80,7 +80,7 @@ Buttons are connected between the GPIO pin and GND.
 
 ### Smart Camera
 
-![Smart Camera](images/smart-camera-front.jpg)
+![Smart Camera](images/images/IMG_20260824_162117_823.jpg)
 
 ### Menu
 
