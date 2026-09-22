@@ -94,9 +94,6 @@ Buttons are connected between the GPIO pin and GND.
 
 ![Gallery](images/images/IMG_20260824_162117_789.jpg)
 
-### About Screen
-
-![About Screen](images/about-screen.jpg)
 
 ---
 
