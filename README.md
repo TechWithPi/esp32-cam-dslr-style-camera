@@ -92,7 +92,7 @@ Buttons are connected between the GPIO pin and GND.
 
 ### Gallery
 
-![Gallery](images/gallery.jpg)
+![Gallery](images/images/IMG_20260824_162117_789.jpg)
 
 ### About Screen
 
