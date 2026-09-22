@@ -76,7 +76,7 @@ Buttons are connected between the GPIO pin and GND.
 
 ### Breadboard Setup
 
-![Breadboard Setup](images/images/IMG_20260824_162117_642.jpg)
+![Thumbnail](1790082649019.png)
 
 ### Smart Camera
 
