@@ -84,7 +84,7 @@ Buttons are connected between the GPIO pin and GND.
 
 ### Menu
 
-![Menu](images/display-menu.jpg)
+![Menu](images/images/IMG_20260824_162117_642.jpg)
 
 ### Camera Preview
 
