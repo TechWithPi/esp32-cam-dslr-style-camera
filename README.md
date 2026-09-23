@@ -1,21 +1,6 @@
 # esp32-cam-dslr-style-camera
 A pocket-sized DSLR-style camera built on ESP32-S3-CAM with a menu-driven UI, live preview, and internal-flash photo gallery.
 
-
-## 🔧 JLCPCB PCB Layout Service
-
-Easy, Affordable, and Reliable — JLCPCB, Your Full-Service Electronics Manufacturing Partner.
-
-JLCPCB offers professional PCB Layout Service to help engineers and makers create production-ready PCB designs.
-
-🎁 **$123 New Customer Coupons:**  
-https://jlcpcb.com/?&from=TechWithpi123
-
-🎁 **$105 JLCPCB Layout Coupon:**  
-https://jlcpcb.com/promotion/1776849103?&from=TechWithPi105
-
-Check out JLCPCB's professional PCB Layout Service for easy, affordable, and reliable PCB design.
-
 # 📷 ESP32-S3 Smart Camera
 
 A compact menu-driven Smart Camera built using an ESP32-S3-CAM, ST7789 TFT display, MicroSD card and two push buttons.
@@ -111,6 +96,9 @@ Buttons are connected between the GPIO pin and GND.
 
 
 ---
+
+If you are interested in professional [PCB layout](https://design.jlcpcb.com?from=TechWithPi_layout) services, you can learn more about JLCPCB's PCB layout service.
+
 
 ## 📚 Libraries
 
